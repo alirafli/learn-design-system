@@ -1,7 +1,7 @@
 {
-  "name": "learnstorybook-design-system-template",
+  "name": "design-system-test",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "files": [
@@ -77,5 +77,8 @@
   },
   "resolutions": {
     "jackspeak": "^3.1.2"
-  }
+  },
+  "repository": "git@github.com:alirafli/learn-design-system.git",
+  "author": "alirafli <mrafli1212@gmail.com>",
+  "description": "tutorial design system"
 }
