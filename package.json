@@ -1,5 +1,5 @@
 {
-  "name": "design-system-test",
+  "name": "@alirafli/learnstorybook-design-system",
   "version": "0.1.0",
   "private": false,
   "main": "dist/cjs/index.js",
