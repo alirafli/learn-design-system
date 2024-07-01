@@ -343,7 +343,7 @@ export const Button = forwardRef(function Button(
         ref={ref}
       >
         <>
-          <Text>{children}</Text>
+          <Text>{children} hai2</Text>
           {isLoading && <Loading>{loadingText || 'Loading...'}</Loading>}
         </>
       </StyledButton>
@@ -353,7 +353,7 @@ export const Button = forwardRef(function Button(
     return (
       <StyledButton as={ButtonLink} isLoading={isLoading} {...props} ref={ref}>
         <>
-          <Text>{children}</Text>
+          <Text>{children} hai2</Text>
           {isLoading && <Loading>{loadingText || 'Loading...'}</Loading>}
         </>
       </StyledButton>
@@ -367,7 +367,7 @@ export const Button = forwardRef(function Button(
       ref={ref}
     >
       <>
-        <Text>{children}</Text>
+        <Text>{children} hai2</Text>
         {isLoading && <Loading>{loadingText || 'Loading...'}</Loading>}
       </>
     </StyledButton>
