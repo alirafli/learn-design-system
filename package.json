@@ -42,6 +42,8 @@
     "@storybook/react": "^8.1.11",
     "@storybook/react-vite": "^8.1.11",
     "@storybook/test": "^8.1.11",
+    "@tsconfig/recommended": "^1.0.7",
+    "@types/react": "^18.3.3",
     "@vitejs/plugin-react": "^3.1.0",
     "auto": "^10.3.0",
     "boxen": "^5.0.1",
